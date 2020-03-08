@@ -12,9 +12,9 @@ Backend Rentbook app using express.js and mysql
 ---
 
 ##### Clone 
-$ git  clone https://github.com/DimasBayu24/JS-Backend-Rentbook-app.git
+"$ git  clone https://github.com/DimasBayu24/JS-Backend-Rentbook-app.git"
 
-$ npm install
+"$ npm install"
 
 ##### Configuration
 
